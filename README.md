@@ -13,7 +13,7 @@ You will learn how to build an intelligent web app using Flask and Azure Cogniti
 <p>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Microsoft Tech Community Blog-critical?style=for-the-badge" alt="Tutorial"></a>
-  <a href="/part1-OCR/ocr-demo.py" target="_blank"><img src="https://img.shields.io/badge/Python App-yellow?style=for-the-badge" alt="Source code"></a>
+  <a href="/Part1-OCR/ocr-demo.py" target="_blank"><img src="https://img.shields.io/badge/Python App-yellow?style=for-the-badge" alt="Source code"></a>
   <a href="https://raw.githubusercontent.com/sfoteini/sketchnotes/main/computer-vision-ocr.png" target="_blank"><img src="https://img.shields.io/badge/Sketch note-yellowgreen?style=for-the-badge" alt="Sketch note: OCR with the READ API"></a>
 </p>
 
