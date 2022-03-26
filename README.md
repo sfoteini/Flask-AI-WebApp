@@ -9,6 +9,8 @@ You will learn how to build an intelligent web app using Flask and Azure Cogniti
 - Create a Flask app and call the Azure Cognitive Services from the app.
 - Deploy the app to Azure App Service.
 
+<br>
+
 ## Part 1: Digitize your notes with Azure Computer Vision and Python
 <p>
   <a href="https://foteinisavvidou.azurewebsites.net/digitize-your-notes-with-azure-computer-vision-and-python" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
@@ -20,3 +22,14 @@ You will learn how to build an intelligent web app using Flask and Azure Cogniti
 In this article, you will build a simple Python app that turns your handwritten notes into digital documents using Azure Computer Vision.
 
 <br>
+
+## Part 2: Translate your notes with Azure Translator and Python
+<p>
+  <a href="https://foteinisavvidou.azurewebsites.net/translate-your-notes-with-azure-translator-and-python" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="https://techcommunity.microsoft.com/t5/educator-developer-blog/translate-your-notes-with-azure-translator-and-python/ba-p/3267201" target="_blank"><img src="https://img.shields.io/badge/Microsoft Tech Community Blog-critical?style=for-the-badge" alt="Tutorial"></a>
+  <a href="/Part2-Translator" target="_blank"><img src="https://img.shields.io/badge/Python App-yellow?style=for-the-badge" alt="Source code"></a>
+  <a href="https://github.com/sfoteini/sketchnotes/blob/main/translator.png?raw=true" target="_blank"><img src="https://img.shields.io/badge/Sketch note-yellowgreen?style=for-the-badge" alt="Sketch note: Azure Translator"></a>
+</p>
+
+In this article, you will build a Python app that translates text using the Azure Translator service.
+
