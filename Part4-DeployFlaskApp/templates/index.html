@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename = 'style.css') }}">
+    <meta name="description" content="Digitize and Translate your notes with Azure Cognitive Services and Python.">
+    <title>Digitize and Translate your notes</title>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1 id="title">Digitize and Translate your notes with Azure Cognitive Services</h1>
+            <p id="description">Enter the URL of your image (handwritten notes), choose a language, and click Translate!</p>
+        </div>
+        
+        <div>
+            <form method="POST" id="form">
+                <div class="form-group">
+                    <label for="image">Handwritten notes:</label>
+                    <input type="url" id="image" name="image" class="form-control" placeholder="Enter the URL of your image" required>
+                </div>
+                <div class="form-group">
+                    <label for="language">Language:</label>
+                    <select id="nagage" name="language" class="form-control">
+                        <option value="en">English</option>
+                        <option value="el">Greek</option>
+                        <option value="fr">French</option>
+                        <option value="it">Italian</option>
+                        <option value="de">German</option>
+                        <option value="ja">Japanese</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <button type="submit" class="submit-button">Translate!</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="footer">
+        <p>Created by Foteini Savvidou</p>
+    </div>
+</body>
+</html>
