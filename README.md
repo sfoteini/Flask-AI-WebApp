@@ -46,6 +46,7 @@ In this blog post, you will build a website using Flask and Azure Cognitive Serv
 
 <br>
 
+<!--
 ## Part 4: Deploy a Flask AI web app to Azure App Service
 <p>
   <a href="http://foteinisavvidou.azurewebsites.net/deploy-a-flask-ai-web-app-to-azure-app-service/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
@@ -54,3 +55,4 @@ In this blog post, you will build a website using Flask and Azure Cognitive Serv
 </p>
 
 In this blog post, you will deploy an AI Flask application app to Azure App Service using Visual Studio Code.
+-->
